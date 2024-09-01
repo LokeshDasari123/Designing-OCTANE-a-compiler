@@ -1,3 +1,5 @@
+OCTANE Compiler
+
 OCTANE is a general-purpose programming language designed to be simple and user-friendly. 
 It supports basic programming constructs such as variables, conditional statements, loops, and custom data types. 
 This project showcases a minimal yet functional compiler for the OCTANE language.
