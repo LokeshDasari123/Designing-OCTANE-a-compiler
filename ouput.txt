@@ -1,0 +1,64 @@
+
+inum is Datatype
+  is Delimiter
+Ab is Identifier
+= is Delimiter
+10 is Unsigned Integer
+# is Delimiter
+inum is Datatype
+  is Delimiter
+Ac is Identifier
+= is Delimiter
+20 is Unsigned Integer
+# is Delimiter
+inum is Datatype
+  is Delimiter
+C is Identifier
+= is Delimiter
+A is Identifier
++ is Arithmetic Operator
+B is Identifier
+$ is Delimiter
+  is Delimiter
+agar is Keyword
+( is Delimiter
+< is Delimiter
+) is Delimiter
+: is Delimiter
+  is Delimiter
+print is Function
+( is Delimiter
+" is Delimiter
+a is Delimiter
+" is Delimiter
+) is Delimiter
+# is Delimiter
+warna is Keyword
+: is Delimiter
+print is Function
+( is Delimiter
+" is Delimiter
+b is Delimiter
+" is Delimiter
+) is Delimiter
+# is Delimiter
+inum is Datatype
+  is Delimiter
+I is Identifier
+  is Delimiter
+= is Delimiter
+0 is Unsigned Integer
+# is Delimiter
+jabtak is Keyword
+  is Delimiter
+  is Delimiter
+t is Delimiter
+o is Delimiter
+  is Delimiter
+: is Delimiter
+  is Delimiter
+print is Function
+( is Delimiter
+i is Delimiter
+) is Delimiter
+# is Delimiter

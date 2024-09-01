@@ -1,0 +1,13 @@
+inum Ab=10#
+inum Ac=20#
+inum C=A+B$ @ sum of two numbers
+agar(A<B): @ conditional construct
+print("a")#
+warna:
+/@ OCTANE COMPILER @/
+print("b")#
+inum I =0#
+jabtak I to C: @ Iteration
+print(i)#
+
+excel sheet >> report ni >> schematic code >> and all test cases ansd reports submit in github
